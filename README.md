@@ -1,2 +1,2 @@
-# bootcamp-project-2-yml-files
-Columbia CS Bootcamp work
+# Columbia CS Bootcamp work
+bootcamp-project-2-yml-files
